@@ -55,6 +55,14 @@
 	 "type": "JournalEntry",
 	 "system": "pf2e",
 	 "package": "monKit"
+	},
+	{
+		"name": "playlist",
+		"label": "Playlists - monKit",
+		"path": "packs/bard-playlist.db",
+		"type": "Playlist",
+		"system": "pf2e",
+		"package": "monKit"
 	}
   ]
 }
