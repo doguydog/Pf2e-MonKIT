@@ -1,0 +1,60 @@
+{
+  "name": "monKit",
+  "title": "monKit",
+  "description": "Module personnalis\u00e9 contenant des marchands, macros et utilitaires pour FoundryVTT.",
+  "version": "1.3.0",
+  "author": "Quentin",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "system": "pf2e",
+  "packs": [
+    {
+      "name": "pf2e-merchant",
+      "label": "Marchands",
+      "path": "packs/pf2e-merchant.db",
+      "type": "Actor",
+      "system": "pf2e",
+	  "package": "monKit"
+    },
+    {
+      "name": "macros",
+      "label": "Macros Utiles - monKit",
+      "path": "packs/macros.db",
+      "type": "Macro",
+      "system": "pf2e",
+	  "package": "monKit"
+    },
+    {
+      "name": "tables",
+      "label": "Tables de Loot - monKit",
+      "path": "packs/tables.db",
+      "type": "RollTable",
+      "system": "pf2e",
+      "package": "monKit"
+    },
+    {
+      "name": "Personnage",
+      "label": "Personnage - monKit",
+      "path": "packs/Personnage.db",
+      "type": "Actor",
+      "system": "pf2e",
+      "package": "monKit"
+    },
+    {
+      "name": "Items",
+      "label": "Items - monKit",
+      "path": "packs/Items.db",
+      "type": "Item",
+      "system": "pf2e",
+      "package": "monKit"
+    },
+	{
+	 "name": "journaux",
+	 "label": "Journaux - monKit",
+	 "path": "packs/journaux.db",
+	 "type": "JournalEntry",
+	 "system": "pf2e",
+	 "package": "monKit"
+	}
+  ]
+}
