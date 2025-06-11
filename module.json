@@ -6,6 +6,9 @@
   "author": "Quentin",
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "11",
+  "manifest": "https://github.com/doguydog/Pf2e-MonKIT/releases/download/monkit/module.json",
+  "download": "https://github.com/doguydog/Pf2e-MonKIT/releases/download/monkit/monKit.zip",
+  "url": "https://github.com/doguydog/Pf2e-MonKIT/tree/monkit",
   "system": "pf2e",
   "packs": [
     {
