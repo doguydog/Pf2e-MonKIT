@@ -2,7 +2,7 @@
   "name": "monKit",
   "title": "monKit",
   "description": "Module personnalis\u00e9 contenant des marchands, macros et utilitaires pour FoundryVTT.",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "author": "Quentin",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "12",
