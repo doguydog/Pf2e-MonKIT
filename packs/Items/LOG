@@ -1,24 +1,8 @@
-2025/06/27-21:29:30.327 6b98 Recovering log #193
-2025/06/27-21:29:30.327 6b98 Level-0 table #195: started
-2025/06/27-21:29:30.337 6b98 Level-0 table #195: 24341 bytes OK
-2025/06/27-21:29:30.349 6b98 Delete type=0 #193
-2025/06/27-21:29:30.349 6b98 Delete type=3 #192
-2025/06/27-22:03:53.291 6c34 Level-0 table #198: started
-2025/06/27-22:03:53.295 6c34 Level-0 table #198: 27645 bytes OK
-2025/06/27-22:03:53.301 6c34 Delete type=0 #196
-2025/06/27-22:03:53.316 6c34 Manual compaction at level-0 from '!folders!0wMjVCWcDTXcxtcS' @ 72057594037927935 : 1 .. '!items!whm7oyxC1rw9Faek' @ 0 : 0; will stop at '!items!vj3gvFCaJrh6EBdG' @ 132 : 1
-2025/06/27-22:03:53.316 6c34 Compacting 2@0 + 0@1 files
-2025/06/27-22:03:53.330 6c34 Generated table #199@0: 32 keys, 37170 bytes
-2025/06/27-22:03:53.330 6c34 Compacted 2@0 + 0@1 files => 37170 bytes
-2025/06/27-22:03:53.334 6c34 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/06/27-22:03:53.334 6c34 Delete type=2 #195
-2025/06/27-22:03:53.334 6c34 Delete type=2 #198
-2025/06/27-22:03:53.341 6c34 Manual compaction at level-0 from '!items!vj3gvFCaJrh6EBdG' @ 132 : 1 .. '!items!whm7oyxC1rw9Faek' @ 0 : 0; will stop at (end)
-2025/06/27-22:03:53.363 6c34 Manual compaction at level-1 from '!folders!0wMjVCWcDTXcxtcS' @ 72057594037927935 : 1 .. '!items!whm7oyxC1rw9Faek' @ 0 : 0; will stop at '!items!vj3gvFCaJrh6EBdG' @ 139 : 1
-2025/06/27-22:03:53.363 6c34 Compacting 1@1 + 1@2 files
-2025/06/27-22:03:53.374 6c34 Generated table #200@1: 50 keys, 72553 bytes
-2025/06/27-22:03:53.374 6c34 Compacted 1@1 + 1@2 files => 72553 bytes
-2025/06/27-22:03:53.378 6c34 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/06/27-22:03:53.378 6c34 Delete type=2 #191
-2025/06/27-22:03:53.378 6c34 Delete type=2 #199
-2025/06/27-22:03:53.382 6c34 Manual compaction at level-1 from '!items!vj3gvFCaJrh6EBdG' @ 139 : 1 .. '!items!whm7oyxC1rw9Faek' @ 0 : 0; will stop at (end)
+2025/07/24-21:31:38.170 4d44 Recovering log #236
+2025/07/24-21:31:38.179 4d44 Delete type=0 #236
+2025/07/24-21:31:38.179 4d44 Delete type=3 #235
+2025/07/24-21:52:27.286 610c Level-0 table #240: started
+2025/07/24-21:52:27.286 610c Level-0 table #240: 0 bytes OK
+2025/07/24-21:52:27.290 610c Delete type=0 #238
+2025/07/24-21:52:27.294 610c Manual compaction at level-0 from '!folders!0wMjVCWcDTXcxtcS' @ 72057594037927935 : 1 .. '!items!whm7oyxC1rw9Faek' @ 0 : 0; will stop at (end)
+2025/07/24-21:52:27.294 610c Manual compaction at level-1 from '!folders!0wMjVCWcDTXcxtcS' @ 72057594037927935 : 1 .. '!items!whm7oyxC1rw9Faek' @ 0 : 0; will stop at (end)
